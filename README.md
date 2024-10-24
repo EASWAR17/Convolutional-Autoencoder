@@ -20,10 +20,7 @@ Rescale the data so that the training is made easier.
 We create two networks , one for encoding and one for decoding.
 
 ## PROGRAM
-```
-Developed By: Easwar J
-Register Number: 212221230024
-```
+
 ```python
 from tensorflow import keras
 from tensorflow.keras import layers
